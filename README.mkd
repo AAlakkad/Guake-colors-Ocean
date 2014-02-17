@@ -1,10 +1,10 @@
-Solarized Colorscheme for Guake
+Ocean Colorscheme for Guake
 ========================================
 
-Based on https://github.com/sigurdga/gnome-terminal-colors-solarized
+Colors from [Base16 colorschemes](http://chriskempson.github.io/base16/#ocean) dark/light.
 
-Credits:
+Which is the default with [SpaceGray](http://kkga.github.io/spacegray) SublimeText Theme.
 
-  - Solarized for Gnome Terminal: by Sigurd Gartmann <sigurdga@sigurdga.no>
-  - Solarized color theme: by Ethan Schoonover <es@ethanschoonover.com>
+
+Based on https://github.com/coolwanglu/guake-colors-solarized
 
